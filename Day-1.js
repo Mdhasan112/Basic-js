@@ -35,3 +35,16 @@ var number2 = 0.2;
 var total = number1+number2;
 total= total.toFixed(3);
 console.log(total);
+
+var number = -5;
+var absolateNumber = Math.abs(number);
+console.log(absolateNumber);
+
+// Math./round/ceil/floor
+var number = 5.54;
+var result = Math.round(number);
+console.log(result);
+
+var number = 400;
+var result = Math.random();
+console.log(result);
