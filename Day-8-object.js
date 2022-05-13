@@ -1,5 +1,5 @@
 var student = {id: 121, phone: 1868, name: "mahim"};
-var student2 = {id: 131, phone: 1234, name: "rohim"};
+var student2 = {id: 131, phone: 1122, name: "rohim"};
 
 var phoneNo = student.phone;
 // or var phoneNo = student["phone"];
