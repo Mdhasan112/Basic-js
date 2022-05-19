@@ -14,3 +14,11 @@ var first = doubleIt(10);
  var second = doubleIt(20);
  var total = first + second
  console.log(total);
+
+ function sleep (person, name) {
+     console.log(person + "  name is " + name);
+ }
+
+ sleep("My", "hasan");
+ sleep("which", "raju");
+ console.log(4);
