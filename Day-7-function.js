@@ -22,3 +22,9 @@ var first = doubleIt(10);
  sleep("My", "hasan");
  sleep("which", "raju");
  console.log(4);
+
+let x = myFunction(4, 3);   // Function is called, return value will end up in x
+
+function myFunction(a, b) {
+  return a * b;             // Function returns the product of a and b
+}
