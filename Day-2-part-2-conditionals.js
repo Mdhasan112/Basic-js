@@ -21,3 +21,19 @@ else if( x > y ) {
 else{
     console.log("I have no change")
 }
+
+var sum = 2;
+
+switch(sum) {
+    case 10:
+        console.log("my name is hasan");
+        break;
+    case 5:
+        console.log("my name is raju")
+        break;
+    case 1:
+        console.log("my name is rofiq")
+        break;
+    default:
+        console.log("I am nothing")
+}
