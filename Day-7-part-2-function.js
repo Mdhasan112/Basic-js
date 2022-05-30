@@ -28,3 +28,4 @@ var y = moja(20);
 
 console.log(x);
 console.log(y);
+console.log(x *y);
